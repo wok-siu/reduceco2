@@ -1,16 +1,17 @@
-# reduceco2
+# reduceco2 Project
+## Due Date: February 7th 2022
 
-## Due Date: January 31st 2022
+## Website Step Plan
+---
 
-## Roles:
+| Development Step     | Contributer   | Due Date  |
+| -------------------: |:-------------:|:---------:|
+| Goal Identification: | ??            |           |
+| Content Research:    | ??            |           |
+| Sitemap:             | ??            |           |
+| Wireframe:           | ??            |           |
+| Content Creation:    | ??            |           |
+| Visual Elements:     | ??            |           |
+| Testing and Debug:   | ??            |           |
 
-Research -
-Work Cited -
-Site Plan-
-Content for Site - 
-Wireframing - 
-HTML Skeleton -
-Styling -
-Graphic Media Creation -
-Basic Animation - 
-Bug Fixing and Validation - 
+### Goal: Help the Community of Rexburg to Reduce their Carbon Footprint
