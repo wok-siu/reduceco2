@@ -6,7 +6,7 @@
 
 | Development Step     | Contributer   | Due Date  |
 | -------------------: |:-------------:|:---------:|
-| Goal Identification: | ??            |           |
+| Goal Identification: | Team          | 1/12/22   |
 | Content Research:    | ??            |           |
 | Sitemap:             | ??            |           |
 | Wireframe:           | ??            |           |
@@ -15,3 +15,5 @@
 | Testing and Debug:   | ??            |           |
 
 ### Goal: Help the Community of Rexburg to Reduce their Carbon Footprint
+
+### Research: What can be done to reduce your footprint and how could rexburg meet these ideas?
